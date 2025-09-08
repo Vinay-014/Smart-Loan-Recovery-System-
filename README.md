@@ -36,11 +36,6 @@ A comprehensive machine learning system that predicts borrower default risk and 
 [![Watch the demo](https://img.shields.io/badge/YouTube-Demo_Video-red?style=for-the-badge&logo=youtube)](https://youtube.com) *Replace with your actual video link*
 
 
-### Screenshots
-| Single Assessment | Batch Processing | Analytics |
-|-------------------|------------------|-----------|
-| ![Single](https://via.placeholder.com/300x200.png?text=Single+Assessment) | ![Batch](https://via.placeholder.com/300x200.png?text=Batch+Processing) | ![Analytics](https://via.placeholder.com/300x200.png?text=Analytics+Dashboard) |
-
 ## 🚀 Installation
 
 ### Prerequisites
