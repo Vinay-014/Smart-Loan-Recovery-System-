@@ -30,11 +30,6 @@ A comprehensive machine learning system that predicts borrower default risk and 
   - 🟡 Medium Risk: Settlement offers & repayment plans
   - 🟢 Low Risk: Automated reminders & monitoring
 
-## 🎥 Demo
-
-### Video Demonstration
-[![Watch the demo](https://img.shields.io/badge/YouTube-Demo_Video-red?style=for-the-badge&logo=youtube)](https://youtube.com) *Replace with your actual video link*
-
 
 ## 🚀 Installation
 
