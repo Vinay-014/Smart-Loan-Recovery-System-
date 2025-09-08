@@ -1,0 +1,201 @@
+Age,Monthly_Income,Loan_Amount,Loan_Tenure,Interest_Rate,Collateral_Value,Outstanding_Loan_Amount,Monthly_EMI,Num_Missed_Payments,Days_Past_Due,Payment_History,Risk_Score,Predicted_High_Risk,Borrower_ID,Segment_Name,Recovery_Status,Collection_Method,Collection_Attempts,Legal_Action_Taken,Recovery_Strategy
+64,51778,1523300,79,16.441634749590172,286629,218431,1329,9,102,2,0.89,1,BRW_812,"High Loan, Higher Default Risk",0,4,2,1,Immediate legal notices & aggressive recovery attempts
+27,38133,662242,76,10.13060420535149,12879,862035,13751,2,114,0,0.52,1,BRW_339,"Moderate Income, Medium Risk",0,3,4,0,Settlement offers & repayment plans
+27,114475,1801939,36,8.3707472424616,1753897,967386,3114,6,24,0,0.53,1,BRW_732,"Moderate Income, High Loan Burden",2,4,2,0,Settlement offers & repayment plans
+38,94567,1621836,44,12.737060823020638,1199110,737609,31316,6,52,2,0.09,0,BRW_514,"High Income, Low Default Risk",0,1,8,1,Automated reminders & monitoring
+27,145149,1052403,70,7.702910362532112,2417999,574699,37087,7,140,0,0.7,1,BRW_556,"Moderate Income, High Loan Burden",1,1,4,1,Settlement offers & repayment plans
+44,55292,386199,19,13.71215609884418,1558274,481247,12085,4,13,1,0.72,1,BRW_570,"High Loan, Higher Default Risk",2,3,8,0,Settlement offers & repayment plans
+33,68777,1506952,40,13.022696724659939,1254304,149457,21601,7,90,0,0.79,1,BRW_321,"High Loan, Higher Default Risk",0,0,3,1,Immediate legal notices & aggressive recovery attempts
+30,187708,935987,52,17.007180553839525,1983518,391413,44151,1,0,2,0.19,0,BRW_710,"High Income, Low Default Risk",2,1,2,1,Automated reminders & monitoring
+64,61869,1961181,62,8.788173265245566,1819833,997150,42003,4,28,0,0.14,0,BRW_997,"Moderate Income, Medium Risk",1,3,9,1,Automated reminders & monitoring
+27,30800,190148,77,11.325876336091367,618821,875584,46559,8,43,0,0.2,0,BRW_325,"High Income, Low Default Risk",2,1,6,1,Automated reminders & monitoring
+44,57991,1507200,62,12.239545874275947,907153,94154,49845,9,93,0,0.22,0,BRW_378,"Moderate Income, Medium Risk",1,2,5,0,Automated reminders & monitoring
+22,68651,986320,34,14.26427077635408,480891,306369,41983,4,15,1,0.12,0,BRW_893,"High Income, Low Default Risk",2,1,6,0,Automated reminders & monitoring
+52,101835,366363,64,12.968306596625512,1693675,265033,19722,4,117,1,0.72,1,BRW_437,"High Loan, Higher Default Risk",0,1,9,1,Settlement offers & repayment plans
+39,181326,1960332,30,7.220255527054064,819555,323923,41200,4,133,1,0.23,0,BRW_178,"Moderate Income, High Loan Burden",1,0,2,1,Automated reminders & monitoring
+68,56304,976352,49,9.2891663805601,190043,130697,6283,2,80,0,0.55,1,BRW_914,"High Loan, Higher Default Risk",1,2,6,0,Settlement offers & repayment plans
+33,135598,1642173,70,8.067200400607984,88887,653848,8498,9,100,2,0.88,1,BRW_808,"Moderate Income, High Loan Burden",0,4,8,0,Immediate legal notices & aggressive recovery attempts
+56,161330,556453,30,14.605576632644674,1064367,689567,36774,6,93,1,0.26,0,BRW_157,"High Income, Low Default Risk",2,3,5,0,Automated reminders & monitoring
+49,96449,191449,47,14.873095190518749,2277732,662806,21054,8,101,2,0.75,1,BRW_833,"High Income, Low Default Risk",1,3,0,0,Settlement offers & repayment plans
+31,62070,740824,78,11.276452541477566,1411746,981708,20285,2,121,1,0.36,0,BRW_622,"Moderate Income, Medium Risk",2,4,0,1,Automated reminders & monitoring
+45,79500,1779041,83,15.245001206431937,1020346,468224,42679,0,82,2,0.09,0,BRW_824,"Moderate Income, Medium Risk",1,2,7,0,Automated reminders & monitoring
+28,153241,1677059,71,7.706624334428385,835544,155915,38290,9,160,1,0.46,0,BRW_809,"Moderate Income, High Loan Burden",2,3,8,1,Automated reminders & monitoring
+32,115648,901161,71,16.521283421042412,1076048,420547,6901,8,87,2,0.93,1,BRW_452,"High Loan, Higher Default Risk",2,0,5,0,Immediate legal notices & aggressive recovery attempts
+38,182331,344067,29,9.039497354114598,1653172,474587,44094,6,35,1,0.02,0,BRW_610,"High Income, Low Default Risk",0,3,0,1,Automated reminders & monitoring
+20,190404,1917307,72,10.473177427324408,1572088,699793,20159,0,99,2,0.39,0,BRW_772,"Moderate Income, High Loan Burden",0,0,0,1,Automated reminders & monitoring
+33,58787,1591326,32,12.589558905317137,300589,224872,46312,9,128,1,0.25,0,BRW_76,"High Loan, Higher Default Risk",0,3,8,0,Automated reminders & monitoring
+64,83095,1169962,23,13.87737737534582,45807,67421,47728,7,128,1,0.44,0,BRW_566,"High Loan, Higher Default Risk",2,0,2,1,Automated reminders & monitoring
+39,89184,1545991,26,10.094856840392257,1407757,652315,37880,8,101,2,0.14,0,BRW_303,"High Income, Low Default Risk",1,1,3,1,Automated reminders & monitoring
+61,38313,402156,39,9.192800384183014,401072,85283,25142,8,41,0,0.58,1,BRW_113,"High Loan, Higher Default Risk",2,4,0,0,Settlement offers & repayment plans
+34,132169,1678662,17,15.105091013266545,2169330,612495,27962,5,178,2,0.63,1,BRW_838,"Moderate Income, High Loan Burden",1,0,4,0,Settlement offers & repayment plans
+63,61321,208598,36,8.274053904604736,259425,21390,3586,0,130,0,0.56,1,BRW_72,"High Loan, Higher Default Risk",1,2,0,1,Settlement offers & repayment plans
+56,27531,908999,38,12.672442061847804,149805,506528,24984,3,159,0,0.6,1,BRW_220,"High Loan, Higher Default Risk",2,3,0,1,Settlement offers & repayment plans
+39,120158,994734,33,8.106190052917889,240346,323860,31782,1,76,1,0.17,0,BRW_324,"Moderate Income, Medium Risk",1,3,2,1,Automated reminders & monitoring
+38,166964,487651,50,9.121576255585758,2149279,833510,39968,2,68,1,0.04,0,BRW_251,"High Income, Low Default Risk",0,2,1,0,Automated reminders & monitoring
+32,113547,1306425,26,7.9379517577284515,1118824,570534,41823,7,73,0,0.1,0,BRW_753,"High Income, Low Default Risk",1,4,9,1,Automated reminders & monitoring
+38,87155,1320699,27,16.263175487318627,1681476,687635,48680,1,120,1,0.02,0,BRW_224,"High Income, Low Default Risk",2,1,3,1,Automated reminders & monitoring
+66,151354,1290579,54,17.386297221807183,52066,562229,10834,2,10,2,0.86,1,BRW_387,"High Loan, Higher Default Risk",1,1,3,0,Immediate legal notices & aggressive recovery attempts
+42,48228,1200988,21,10.61224049578266,2344693,136262,46656,0,72,0,0.05,0,BRW_269,"Moderate Income, Medium Risk",0,3,2,0,Automated reminders & monitoring
+65,173124,1124477,73,13.519656733071656,2239164,136984,46541,9,5,1,0.11,0,BRW_810,"High Income, Low Default Risk",1,4,1,0,Automated reminders & monitoring
+56,27597,930096,36,12.656497123925753,1390752,319889,20586,9,165,1,0.8,1,BRW_801,"High Loan, Higher Default Risk",0,4,4,1,Immediate legal notices & aggressive recovery attempts
+60,176351,740955,23,11.716407202261518,1012884,217984,16184,8,47,2,0.72,1,BRW_204,"High Loan, Higher Default Risk",0,4,2,1,Settlement offers & repayment plans
+67,106836,1236995,17,17.813711695763025,102951,922229,15439,4,68,2,0.84,1,BRW_835,"High Loan, Higher Default Risk",2,2,8,0,Immediate legal notices & aggressive recovery attempts
+44,139246,1576273,15,17.788731859560436,1601582,909110,39140,9,80,0,0.15,0,BRW_45,"High Income, Low Default Risk",0,4,6,0,Automated reminders & monitoring
+41,98707,1998939,40,9.5449340648535,268116,320032,34957,3,179,2,0.3,0,BRW_333,"Moderate Income, Medium Risk",2,2,6,0,Automated reminders & monitoring
+24,129079,302156,13,15.017567849371753,988722,423206,3107,4,102,1,0.93,1,BRW_140,"High Loan, Higher Default Risk",1,1,8,1,Immediate legal notices & aggressive recovery attempts
+68,172889,669003,33,9.382371041899649,982014,432681,16524,2,80,1,0.69,1,BRW_153,"Moderate Income, High Loan Burden",0,4,4,1,Settlement offers & repayment plans
+68,35997,591287,80,15.369745754386607,2343453,560113,39097,2,151,2,0.21,0,BRW_29,"Moderate Income, Medium Risk",1,1,6,0,Automated reminders & monitoring
+64,36715,1831411,31,8.936272305452471,421743,703288,35622,6,49,2,0.09,0,BRW_703,"Moderate Income, Medium Risk",2,4,5,0,Automated reminders & monitoring
+64,46832,1250532,70,13.07129997166513,1896999,490643,2785,9,24,2,0.64,1,BRW_96,"High Loan, Higher Default Risk",2,1,5,0,Settlement offers & repayment plans
+36,69334,533236,46,10.406357574414217,428886,283473,21472,1,139,1,0.61,1,BRW_667,"Moderate Income, Medium Risk",1,0,7,1,Settlement offers & repayment plans
+42,96975,1509410,46,8.441644938847194,673616,440126,43718,4,25,2,0.03,0,BRW_463,"Moderate Income, Medium Risk",0,1,9,1,Automated reminders & monitoring
+28,187860,667367,41,15.87450926613644,577701,817060,41136,5,78,2,0.16,0,BRW_750,"High Income, Low Default Risk",2,0,3,0,Automated reminders & monitoring
+29,75147,1543990,21,12.540574702610627,510609,143953,41081,4,170,2,0.23,0,BRW_74,"Moderate Income, Medium Risk",1,4,3,1,Automated reminders & monitoring
+68,137961,803622,20,16.89353774384058,970584,66188,12525,6,85,1,0.91,1,BRW_776,"High Loan, Higher Default Risk",2,3,0,0,Immediate legal notices & aggressive recovery attempts
+42,124195,1602127,26,12.983704224134643,2293696,891317,17105,4,62,1,0.37,0,BRW_124,"High Income, Low Default Risk",1,0,4,0,Automated reminders & monitoring
+48,25906,1854251,36,10.31990306628963,1936513,927473,39658,7,66,0,0.14,0,BRW_402,"Moderate Income, Medium Risk",2,0,4,0,Automated reminders & monitoring
+47,193921,911465,15,16.528020797559325,252515,928665,12441,4,125,1,0.89,1,BRW_754,"High Loan, Higher Default Risk",1,1,9,0,Immediate legal notices & aggressive recovery attempts
+41,64014,696275,24,11.993187500639756,2335563,128938,49015,7,78,0,0.09,0,BRW_781,"High Income, Low Default Risk",1,2,7,0,Automated reminders & monitoring
+56,42746,1974507,53,7.078562899450695,1873200,150453,39440,6,5,2,0.07,0,BRW_506,"Moderate Income, Medium Risk",1,0,2,1,Automated reminders & monitoring
+58,132082,796760,36,14.591354294502088,2387807,690527,21256,4,74,2,0.55,1,BRW_631,"High Income, Low Default Risk",1,0,8,1,Settlement offers & repayment plans
+32,116019,548512,36,10.717797055168198,905352,860927,3576,5,140,0,0.98,1,BRW_604,"Moderate Income, High Loan Burden",1,1,3,0,Immediate legal notices & aggressive recovery attempts
+29,64363,1418880,54,15.363610435445514,1594362,819945,42792,8,71,0,0.02,0,BRW_679,"High Income, Low Default Risk",0,1,4,0,Automated reminders & monitoring
+39,172850,669696,44,8.231280359482682,501477,810658,40197,7,20,1,0.07,0,BRW_528,"High Income, Low Default Risk",0,4,7,0,Automated reminders & monitoring
+34,186923,917196,13,14.576915539489857,783258,511188,5382,9,166,1,0.9,1,BRW_95,"Moderate Income, High Loan Burden",0,0,2,1,Immediate legal notices & aggressive recovery attempts
+62,33947,1488846,55,16.99751946950904,1433482,784403,23491,0,43,1,0.27,0,BRW_535,"Moderate Income, Medium Risk",2,2,3,1,Automated reminders & monitoring
+38,75419,1265358,39,9.034123272138588,1280101,760956,18570,4,26,1,0.26,0,BRW_7,"Moderate Income, Medium Risk",1,3,3,0,Automated reminders & monitoring
+68,131431,649792,80,16.666211760446227,865718,207925,32740,7,153,1,0.7,1,BRW_932,"High Loan, Higher Default Risk",0,0,4,1,Settlement offers & repayment plans
+45,53380,651982,83,17.47305216818216,1126998,445899,21502,3,105,2,0.64,1,BRW_394,"High Loan, Higher Default Risk",1,1,7,0,Settlement offers & repayment plans
+64,172155,1873215,65,16.845842150780296,315104,526077,17165,7,31,2,0.73,1,BRW_917,"High Loan, Higher Default Risk",1,4,9,1,Settlement offers & repayment plans
+42,170667,1444359,59,14.632494780633055,1800266,848607,23361,8,77,1,0.51,1,BRW_881,"High Income, Low Default Risk",2,4,9,1,Settlement offers & repayment plans
+52,95939,337623,34,8.766530645476394,1152702,268602,32615,9,84,2,0.46,0,BRW_371,"High Income, Low Default Risk",0,2,1,1,Automated reminders & monitoring
+62,68456,1934231,54,7.025557467451233,1354596,568423,34359,2,67,0,0.09,0,BRW_925,"Moderate Income, Medium Risk",1,0,7,0,Automated reminders & monitoring
+50,83918,436350,60,17.791493484799123,1746988,406879,5722,1,91,1,0.72,1,BRW_821,"High Loan, Higher Default Risk",2,4,0,0,Settlement offers & repayment plans
+36,196168,1899039,54,15.752262537275861,305218,888976,26428,2,161,0,0.47,0,BRW_457,"Moderate Income, High Loan Burden",2,0,2,1,Automated reminders & monitoring
+49,104045,645484,42,7.687576356614519,665078,693812,25714,0,44,2,0.14,0,BRW_179,"Moderate Income, Medium Risk",0,3,5,0,Automated reminders & monitoring
+22,172110,545654,67,10.47836634819663,2023027,294366,29141,3,11,2,0.06,0,BRW_376,"High Income, Low Default Risk",0,4,6,1,Automated reminders & monitoring
+63,137322,952957,74,13.451629591411937,1265832,96651,36365,4,110,2,0.39,0,BRW_103,"Moderate Income, Medium Risk",0,1,9,1,Automated reminders & monitoring
+28,106716,1390683,56,15.220273133158425,1112916,178625,12219,6,37,1,0.81,1,BRW_643,"High Loan, Higher Default Risk",2,3,9,1,Immediate legal notices & aggressive recovery attempts
+53,153669,1590815,20,9.802235780703906,1315502,616552,5001,0,112,0,0.47,0,BRW_511,"Moderate Income, High Loan Burden",2,2,1,1,Automated reminders & monitoring
+25,142813,1145687,24,9.395017896512268,2477724,225864,5979,5,127,0,0.87,1,BRW_906,"Moderate Income, High Loan Burden",0,1,8,0,Immediate legal notices & aggressive recovery attempts
+31,136219,928878,53,12.361469334108882,294358,115981,28079,8,160,1,0.77,1,BRW_537,"Moderate Income, High Loan Burden",2,4,4,1,Immediate legal notices & aggressive recovery attempts
+59,100257,328495,37,13.880258664671274,1713043,597121,26039,6,99,1,0.42,0,BRW_382,"High Loan, Higher Default Risk",1,1,3,0,Automated reminders & monitoring
+56,76622,441180,44,9.523328523698202,1085852,358780,42787,0,68,1,0.08,0,BRW_960,"Moderate Income, Medium Risk",0,0,6,0,Automated reminders & monitoring
+53,56593,1227228,36,9.445110433024437,1959484,144811,32368,9,77,1,0.23,0,BRW_913,"Moderate Income, Medium Risk",0,0,8,1,Automated reminders & monitoring
+54,166451,1173979,63,11.369986201245057,669745,180645,43029,9,154,0,0.49,0,BRW_127,"Moderate Income, High Loan Burden",2,3,9,1,Automated reminders & monitoring
+54,82987,991245,23,11.433344424110103,712917,949953,45214,1,17,1,0.03,0,BRW_405,"High Income, Low Default Risk",2,4,8,0,Automated reminders & monitoring
+21,84307,1303296,33,13.463896852766196,1652595,854727,24039,1,26,1,0.12,0,BRW_550,"High Income, Low Default Risk",0,3,1,0,Automated reminders & monitoring
+37,180878,1820394,69,14.69556186325881,468451,142321,30381,4,88,2,0.46,0,BRW_70,"High Loan, Higher Default Risk",2,3,1,1,Automated reminders & monitoring
+40,96272,1288697,80,16.287463505676207,15733,845753,5477,7,95,0,0.91,1,BRW_23,"High Loan, Higher Default Risk",2,2,1,1,Immediate legal notices & aggressive recovery attempts
+53,93997,827475,58,15.13854609260444,1578660,624588,3460,6,80,0,0.92,1,BRW_237,"High Loan, Higher Default Risk",1,4,5,1,Immediate legal notices & aggressive recovery attempts
+32,99003,442551,20,9.916245754566637,544075,485654,28818,8,156,1,0.84,1,BRW_757,"Moderate Income, High Loan Burden",0,0,1,1,Immediate legal notices & aggressive recovery attempts
+34,101532,913428,65,13.663291035730278,1469204,250319,27462,7,154,1,0.61,1,BRW_852,"Moderate Income, High Loan Burden",0,2,3,0,Settlement offers & repayment plans
+36,32087,1226792,28,9.12476009249276,388742,910976,48928,6,159,1,0.25,0,BRW_107,"Moderate Income, Medium Risk",1,1,0,0,Automated reminders & monitoring
+42,75426,1502137,40,9.238367940108438,2022327,578725,43676,5,148,0,0.2,0,BRW_426,"Moderate Income, Medium Risk",0,4,8,1,Automated reminders & monitoring
+60,134914,324535,41,7.795046423304942,1387168,601802,42996,5,103,1,0.19,0,BRW_115,"High Income, Low Default Risk",2,3,4,1,Automated reminders & monitoring
+64,90028,1975618,57,8.309234349424552,983061,599830,47716,5,142,2,0.14,0,BRW_670,"Moderate Income, Medium Risk",1,0,4,1,Automated reminders & monitoring
+33,151265,1932582,62,14.77651950342765,762557,142412,48367,9,43,1,0.13,0,BRW_615,"High Income, Low Default Risk",2,0,7,1,Automated reminders & monitoring
+35,22336,494755,70,16.20057156237842,1421525,495784,14769,4,81,2,0.66,1,BRW_291,"High Loan, Higher Default Risk",1,0,2,0,Settlement offers & repayment plans
+48,121604,1999452,36,15.081794272915282,568011,402993,20544,6,55,1,0.79,1,BRW_69,"High Loan, Higher Default Risk",1,2,7,1,Immediate legal notices & aggressive recovery attempts
+20,197809,1099627,61,8.006362702262045,487707,621655,30455,8,122,0,0.4,0,BRW_693,"Moderate Income, High Loan Burden",1,4,2,0,Automated reminders & monitoring
+24,143950,608988,15,15.326204252755856,2482933,325145,21141,7,18,1,0.37,0,BRW_478,"High Income, Low Default Risk",2,3,4,1,Automated reminders & monitoring
+58,133175,1701142,58,11.536031360021491,2095637,44484,45653,8,110,1,0.16,0,BRW_114,"Moderate Income, Medium Risk",2,0,7,1,Automated reminders & monitoring
+28,103369,1890749,27,11.353554476264739,2090178,543910,13612,0,161,2,0.5,0,BRW_194,"Moderate Income, High Loan Burden",1,4,9,0,Settlement offers & repayment plans
+52,172456,1967577,31,9.987055006952342,1866015,302621,10341,9,158,2,0.89,1,BRW_375,"Moderate Income, High Loan Burden",2,0,5,1,Immediate legal notices & aggressive recovery attempts
+57,72887,810592,38,9.60534417656201,1752813,752451,38001,6,116,0,0.19,0,BRW_956,"Moderate Income, Medium Risk",2,1,5,1,Automated reminders & monitoring
+52,46762,1325393,62,14.52167020978862,849104,432750,24769,2,15,0,0.42,0,BRW_856,"Moderate Income, Medium Risk",2,0,5,0,Automated reminders & monitoring
+33,181458,558069,25,15.290921942183425,2005789,849726,26854,3,139,1,0.42,0,BRW_915,"High Income, Low Default Risk",1,4,8,0,Automated reminders & monitoring
+69,70583,551110,56,10.319800614472706,1658332,436572,13047,8,105,2,0.82,1,BRW_742,"Moderate Income, High Loan Burden",2,4,6,1,Immediate legal notices & aggressive recovery attempts
+40,58635,1381604,47,7.2108467627747554,1166026,759994,46278,5,47,2,0.03,0,BRW_899,"Moderate Income, Medium Risk",2,2,3,1,Automated reminders & monitoring
+61,90553,1609067,42,10.296355522256398,1129775,981714,36103,2,56,1,0.04,0,BRW_197,"Moderate Income, Medium Risk",2,3,5,1,Automated reminders & monitoring
+48,86418,865864,81,14.40114858912473,568933,205463,15123,2,97,2,0.63,1,BRW_895,"High Loan, Higher Default Risk",0,3,6,1,Settlement offers & repayment plans
+63,128255,248237,29,8.529024257189855,1841049,447628,43618,4,145,2,0.31,0,BRW_36,"Moderate Income, High Loan Burden",2,4,9,1,Automated reminders & monitoring
+59,111088,689872,74,10.614276960055237,1089100,919199,14882,6,159,1,0.89,1,BRW_888,"Moderate Income, High Loan Burden",2,1,1,0,Immediate legal notices & aggressive recovery attempts
+65,76481,227597,18,13.913523872598244,301173,744974,20522,6,65,1,0.72,1,BRW_416,"High Loan, Higher Default Risk",2,0,2,0,Settlement offers & repayment plans
+38,68511,1199282,60,17.481178280876428,2491721,490783,34966,3,102,1,0.28,0,BRW_990,"High Income, Low Default Risk",1,4,6,1,Automated reminders & monitoring
+39,183864,1281266,54,7.075248229631999,1375520,263389,26019,7,161,2,0.75,1,BRW_972,"Moderate Income, High Loan Burden",0,1,6,1,Settlement offers & repayment plans
+66,49118,1604209,40,8.052047656260875,1698019,98843,44344,3,118,0,0.12,0,BRW_347,"Moderate Income, Medium Risk",0,1,1,0,Automated reminders & monitoring
+29,157103,185639,27,11.941949743122004,2489296,169446,28703,7,151,1,0.68,1,BRW_729,"Moderate Income, High Loan Burden",2,4,2,0,Settlement offers & repayment plans
+27,166045,222502,27,14.279918014318671,150635,332464,18772,1,17,2,0.65,1,BRW_822,"High Loan, Higher Default Risk",1,4,1,1,Settlement offers & repayment plans
+53,55428,696012,82,17.632148104106577,367968,263053,47127,2,115,0,0.35,0,BRW_872,"High Loan, Higher Default Risk",0,2,3,1,Automated reminders & monitoring
+68,69879,1793455,83,7.996154143610125,667538,729523,26385,4,141,0,0.26,0,BRW_591,"Moderate Income, Medium Risk",0,4,5,1,Automated reminders & monitoring
+37,191918,1601899,50,16.294679390041114,1167213,542608,13334,3,148,1,0.99,1,BRW_377,"Moderate Income, High Loan Burden",2,1,0,1,Immediate legal notices & aggressive recovery attempts
+42,37069,375329,78,17.30397011438839,1315777,532860,49285,3,104,1,0.36,0,BRW_219,"Moderate Income, Medium Risk",2,1,9,1,Automated reminders & monitoring
+46,33893,1839760,61,15.901142840224153,1216018,656763,46679,1,155,2,0.03,0,BRW_894,"Moderate Income, Medium Risk",2,3,3,1,Automated reminders & monitoring
+64,168683,1973217,15,12.994805059100198,441168,535607,24202,5,27,0,0.54,1,BRW_954,"High Loan, Higher Default Risk",0,0,5,1,Settlement offers & repayment plans
+23,171426,52775,46,8.810592010695322,2326168,619114,18682,6,105,1,0.63,1,BRW_352,"Moderate Income, High Loan Burden",0,1,2,1,Settlement offers & repayment plans
+40,146060,906636,36,13.300365862505956,1208402,198017,38763,2,140,0,0.29,0,BRW_840,"High Income, Low Default Risk",1,1,9,0,Automated reminders & monitoring
+20,195674,1111809,27,15.962730342760246,2495902,929099,38136,9,118,0,0.28,0,BRW_665,"High Income, Low Default Risk",2,1,4,1,Automated reminders & monitoring
+22,157469,687999,13,12.331584686299383,1298071,686229,40770,7,59,1,0.04,0,BRW_189,"High Income, Low Default Risk",2,3,3,1,Automated reminders & monitoring
+55,119134,460591,15,10.291552047311665,2445444,101505,16082,8,88,2,0.89,1,BRW_164,"Moderate Income, High Loan Burden",1,4,5,0,Immediate legal notices & aggressive recovery attempts
+35,46086,182659,58,7.8515270718322565,2351809,61264,39644,2,14,0,0.11,0,BRW_885,"Moderate Income, Medium Risk",2,0,3,0,Automated reminders & monitoring
+47,40095,1386286,68,9.591470510691453,2338626,177476,36790,6,101,1,0.22,0,BRW_422,"Moderate Income, Medium Risk",0,4,6,0,Automated reminders & monitoring
+22,80058,576249,73,8.915723616349359,789622,191848,21968,1,4,2,0.46,0,BRW_724,"Moderate Income, Medium Risk",2,4,0,0,Automated reminders & monitoring
+37,90194,1326155,77,12.037595359384891,2416738,871061,27372,4,31,2,0.08,0,BRW_716,"Moderate Income, Medium Risk",1,4,0,0,Automated reminders & monitoring
+22,98610,1914445,36,17.399088145762555,1796870,166305,5019,4,59,0,0.79,1,BRW_538,"High Loan, Higher Default Risk",2,4,2,1,Immediate legal notices & aggressive recovery attempts
+45,26142,429653,72,16.15963120984362,1920773,761262,48573,2,12,0,0.2,0,BRW_920,"High Income, Low Default Risk",0,1,5,1,Automated reminders & monitoring
+21,62821,593898,54,16.4110623577946,1458251,862781,32707,1,12,1,0.12,0,BRW_216,"High Income, Low Default Risk",0,0,1,1,Automated reminders & monitoring
+27,22023,671825,82,10.964334440595223,274548,188726,20797,1,139,2,0.47,0,BRW_119,"Moderate Income, Medium Risk",1,4,0,1,Automated reminders & monitoring
+29,74245,1583248,55,7.527052547046671,1660100,109264,10399,0,67,0,0.27,0,BRW_644,"Moderate Income, Medium Risk",2,1,5,1,Automated reminders & monitoring
+57,90448,500983,37,12.413012113851078,1595776,386354,48599,2,0,2,0.09,0,BRW_660,"High Income, Low Default Risk",0,2,3,0,Automated reminders & monitoring
+42,105436,1024334,35,7.649551589040992,1325499,242223,38030,6,51,0,0.1,0,BRW_587,"High Income, Low Default Risk",2,1,7,0,Automated reminders & monitoring
+40,22261,1358014,19,9.887335086906502,2278701,898760,49089,6,56,0,0.1,0,BRW_624,"High Income, Low Default Risk",2,3,6,0,Automated reminders & monitoring
+35,107896,1806963,81,8.500073602143225,2414607,831080,11778,2,52,0,0.24,0,BRW_275,"Moderate Income, Medium Risk",1,4,2,1,Automated reminders & monitoring
+23,42010,1866760,55,7.8713446500920785,1444315,346249,31276,1,75,1,0.05,0,BRW_519,"Moderate Income, Medium Risk",2,1,6,0,Automated reminders & monitoring
+23,140356,199395,72,14.542169241917193,1963853,636431,38123,3,126,2,0.12,0,BRW_974,"High Income, Low Default Risk",0,4,8,1,Automated reminders & monitoring
+34,157328,476903,31,9.093706726045523,675025,773372,10372,5,99,2,0.93,1,BRW_161,"Moderate Income, High Loan Burden",2,4,5,0,Immediate legal notices & aggressive recovery attempts
+30,136859,1692878,46,11.262131102039323,717997,668626,19890,8,70,1,0.69,1,BRW_180,"Moderate Income, High Loan Burden",2,3,4,0,Settlement offers & repayment plans
+58,105457,1382559,22,12.527122147390422,976264,492232,46915,1,81,0,0.07,0,BRW_42,"Moderate Income, Medium Risk",2,2,6,0,Automated reminders & monitoring
+31,58547,1693909,59,11.695441616745985,1102491,608278,41077,2,122,0,0.07,0,BRW_482,"Moderate Income, Medium Risk",2,2,3,0,Automated reminders & monitoring
+50,157888,839417,69,16.060101542284,116908,631036,20203,3,107,1,0.89,1,BRW_548,"High Loan, Higher Default Risk",2,2,2,1,Immediate legal notices & aggressive recovery attempts
+47,167256,1790543,33,16.16231131550527,807040,33734,9378,4,134,1,0.94,1,BRW_169,"High Loan, Higher Default Risk",2,4,2,1,Immediate legal notices & aggressive recovery attempts
+58,186597,789538,77,7.295544194494289,1098966,49297,26457,2,58,1,0.28,0,BRW_190,"Moderate Income, Medium Risk",0,1,1,0,Automated reminders & monitoring
+22,98471,911858,29,8.449875128863473,127602,289776,29506,7,23,2,0.33,0,BRW_976,"High Income, Low Default Risk",1,3,3,1,Automated reminders & monitoring
+52,30651,1405477,32,13.99195198504044,535827,32583,49774,9,147,0,0.4,0,BRW_699,"High Loan, Higher Default Risk",2,2,6,1,Automated reminders & monitoring
+59,155565,725302,27,7.555581316210872,776041,288569,20396,5,82,2,0.68,1,BRW_541,"Moderate Income, High Loan Burden",1,1,7,0,Settlement offers & repayment plans
+26,31093,1334574,74,16.29277339306961,1680664,580464,30849,8,24,1,0.21,0,BRW_613,"High Income, Low Default Risk",0,1,2,1,Automated reminders & monitoring
+28,87843,750033,18,15.894275875621293,1935822,898633,44242,1,9,1,0.04,0,BRW_398,"High Income, Low Default Risk",2,3,8,0,Automated reminders & monitoring
+60,39033,1334670,71,13.810848486673642,1380679,35282,18270,0,41,1,0.29,0,BRW_93,"Moderate Income, Medium Risk",0,2,7,1,Automated reminders & monitoring
+47,154832,321365,51,14.882669288560342,333964,427709,22159,4,39,0,0.84,1,BRW_689,"High Loan, Higher Default Risk",0,0,7,1,Immediate legal notices & aggressive recovery attempts
+68,22839,588314,37,17.325860989114386,2032656,512191,13697,4,22,1,0.63,1,BRW_213,"High Loan, Higher Default Risk",0,2,4,1,Settlement offers & repayment plans
+21,53787,1706042,69,17.843450745443153,2440282,213299,2597,4,28,1,0.6,1,BRW_170,"High Loan, Higher Default Risk",0,2,5,0,Settlement offers & repayment plans
+33,53691,1085408,65,13.9021468864268,393186,842667,15635,0,5,2,0.38,0,BRW_418,"Moderate Income, Medium Risk",1,3,0,0,Automated reminders & monitoring
+38,177489,667614,69,15.26974046103982,1184801,405732,26117,1,126,2,0.48,0,BRW_805,"Moderate Income, High Loan Burden",2,0,0,1,Automated reminders & monitoring
+65,142775,1088218,83,7.387366908780758,2350876,211463,18824,6,105,0,0.69,1,BRW_368,"Moderate Income, High Loan Burden",0,0,3,0,Settlement offers & repayment plans
+24,35434,157524,26,13.435386855905282,2209375,851980,13043,7,15,0,0.48,0,BRW_762,"High Income, Low Default Risk",1,1,5,0,Automated reminders & monitoring
+54,102617,1866250,47,12.197669871015439,642911,392573,46382,9,95,2,0.24,0,BRW_109,"Moderate Income, Medium Risk",1,3,4,1,Automated reminders & monitoring
+24,77169,330539,40,17.42575672615903,843810,454529,5114,0,76,1,0.82,1,BRW_862,"High Loan, Higher Default Risk",1,1,7,1,Immediate legal notices & aggressive recovery attempts
+45,85697,1052252,33,10.316093654046808,2037398,129065,8928,2,125,1,0.67,1,BRW_141,"Moderate Income, High Loan Burden",2,1,5,1,Settlement offers & repayment plans
+36,162312,574624,53,15.030018931889476,641142,655362,1916,3,94,1,0.92,1,BRW_554,"High Loan, Higher Default Risk",0,3,3,1,Immediate legal notices & aggressive recovery attempts
+27,166110,1486998,51,13.307750078912271,1561023,695109,49068,3,159,1,0.13,0,BRW_986,"High Income, Low Default Risk",0,2,9,1,Automated reminders & monitoring
+53,159839,689104,13,8.876612370838087,691898,971415,2004,0,75,2,0.48,0,BRW_786,"Moderate Income, High Loan Burden",2,2,9,0,Automated reminders & monitoring
+56,157924,1791035,63,7.116062346952089,1608885,563998,14854,4,92,1,0.7,1,BRW_364,"Moderate Income, High Loan Burden",2,4,1,0,Settlement offers & repayment plans
+66,122932,138059,23,10.425201338818429,1255802,255564,12109,0,44,0,0.55,1,BRW_491,"High Loan, Higher Default Risk",1,4,0,1,Settlement offers & repayment plans
+21,178175,563953,20,7.781411635436753,1664005,481947,44548,4,164,1,0.36,0,BRW_943,"High Income, Low Default Risk",0,1,4,1,Automated reminders & monitoring
+51,158311,105863,39,9.111509828952983,1214488,297668,37860,8,78,1,0.27,0,BRW_373,"High Income, Low Default Risk",0,4,6,0,Automated reminders & monitoring
+22,25105,1151267,35,8.52205020977009,16939,768164,33544,6,161,1,0.38,0,BRW_210,"Moderate Income, Medium Risk",1,2,8,0,Automated reminders & monitoring
+45,53866,86683,82,13.438265111677424,1823980,627890,44284,8,61,0,0.24,0,BRW_460,"High Income, Low Default Risk",1,3,5,1,Automated reminders & monitoring
+36,102035,1340894,69,16.967512897402273,2170856,975924,8855,3,27,1,0.51,1,BRW_927,"High Income, Low Default Risk",1,2,8,1,Settlement offers & repayment plans
+43,120082,397823,24,15.352419406652258,1335250,85395,31563,7,141,0,0.7,1,BRW_105,"High Loan, Higher Default Risk",0,0,3,0,Settlement offers & repayment plans
+35,28787,206877,65,7.5176421740602075,1502718,7086,24671,2,175,1,0.43,0,BRW_520,"Moderate Income, Medium Risk",2,3,5,0,Automated reminders & monitoring
+67,39446,1775055,27,14.97165879688007,2276158,474081,16700,7,167,1,0.77,1,BRW_290,"Moderate Income, High Loan Burden",1,4,1,1,Immediate legal notices & aggressive recovery attempts
+67,115040,1250002,75,14.196425082319141,1926663,466441,1209,9,104,0,0.85,1,BRW_791,"Moderate Income, High Loan Burden",0,2,7,0,Immediate legal notices & aggressive recovery attempts
+45,70939,1363982,81,14.869191188965207,563508,911815,49158,5,162,2,0.06,0,BRW_499,"Moderate Income, Medium Risk",1,0,4,0,Automated reminders & monitoring
+31,175024,248303,12,13.765710928435924,1811049,550996,40236,9,169,0,0.47,0,BRW_496,"High Income, Low Default Risk",0,0,1,0,Automated reminders & monitoring
+68,48803,817442,73,9.062549028308784,1960022,28261,37952,0,100,0,0.19,0,BRW_606,"Moderate Income, Medium Risk",1,0,2,0,Automated reminders & monitoring
+44,149295,1288822,39,12.897709248780096,1527671,555673,15318,4,175,2,0.93,1,BRW_472,"Moderate Income, High Loan Burden",2,0,0,0,Immediate legal notices & aggressive recovery attempts
+31,26304,1479290,44,16.416011823824682,1414119,859004,11251,9,176,1,0.87,1,BRW_282,"Moderate Income, High Loan Burden",0,1,1,1,Immediate legal notices & aggressive recovery attempts
+48,94965,1792955,74,11.362496318249626,37310,247066,47336,8,163,1,0.28,0,BRW_863,"Moderate Income, Medium Risk",2,3,1,1,Automated reminders & monitoring
+53,151430,966004,14,10.672927186792094,2336038,671064,34270,7,86,1,0.29,0,BRW_846,"High Income, Low Default Risk",0,0,6,0,Automated reminders & monitoring
+37,103375,1287063,64,8.170529391931291,1823948,953646,36157,3,130,1,0.19,0,BRW_640,"Moderate Income, Medium Risk",1,1,7,0,Automated reminders & monitoring
+40,161521,957383,83,9.215469401346875,1564547,463144,16471,3,87,2,0.53,1,BRW_501,"Moderate Income, High Loan Burden",1,3,5,0,Settlement offers & repayment plans
+69,175930,99522,79,12.540792257924778,2337119,847848,26675,4,114,2,0.25,0,BRW_47,"Moderate Income, High Loan Burden",1,2,2,0,Automated reminders & monitoring
+59,199402,1263735,42,8.92048836371905,1821042,671502,9983,5,50,2,0.64,1,BRW_260,"Moderate Income, High Loan Burden",2,0,4,0,Settlement offers & repayment plans
+48,168930,1983247,51,10.261913485822882,609723,613398,15677,3,146,1,0.73,1,BRW_756,"Moderate Income, High Loan Burden",0,4,3,0,Settlement offers & repayment plans
+37,102279,1430503,27,8.135383137668995,772783,595976,8632,1,171,1,0.44,0,BRW_761,"Moderate Income, High Loan Burden",1,1,2,0,Automated reminders & monitoring
+63,177547,1710302,75,13.523618089640934,1016972,206749,28115,5,168,0,0.45,0,BRW_440,"Moderate Income, High Loan Burden",2,3,6,0,Automated reminders & monitoring
+44,146468,571396,52,15.613002544819222,738456,257231,43856,7,30,1,0.21,0,BRW_306,"High Income, Low Default Risk",1,2,6,0,Automated reminders & monitoring
+49,144447,338213,68,17.931623729159895,2104417,5435,17865,3,127,1,0.81,1,BRW_20,"High Loan, Higher Default Risk",1,1,1,1,Immediate legal notices & aggressive recovery attempts
+45,104246,167797,72,17.27375771558971,1721742,296773,8338,9,165,0,0.94,1,BRW_462,"Moderate Income, High Loan Burden",1,0,5,0,Immediate legal notices & aggressive recovery attempts
+61,29496,1360073,36,9.870104376151849,2114346,712494,12009,7,170,1,0.74,1,BRW_67,"Moderate Income, High Loan Burden",0,0,9,0,Settlement offers & repayment plans
+43,175336,1743470,70,13.704564801054815,897691,942529,41891,7,72,1,0.08,0,BRW_529,"High Income, Low Default Risk",1,4,0,1,Automated reminders & monitoring
