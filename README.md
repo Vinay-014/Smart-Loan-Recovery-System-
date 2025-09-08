@@ -7,7 +7,7 @@
 
 A comprehensive machine learning system that predicts borrower default risk and recommends optimal recovery strategies for financial institutions. Built with Python, Scikit-Learn, and Streamlit.
 
-![Demo]("")
+![Demo](https://github.com/Vinay-014/Smart-Loan-Recovery-System-/blob/main/Smart%20Loan%20Recovery%20System%20and%201%20more%20page%20-%20Personal%20-%20Microsoft_%20Edge%202025-09-08%2011-46-27%20(1).gif)
 
 
 ## ✨ Features
