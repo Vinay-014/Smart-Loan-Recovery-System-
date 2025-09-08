@@ -31,13 +31,6 @@ A comprehensive machine learning system that predicts borrower default risk and 
   - 🟢 Low Risk: Automated reminders & monitoring
 
 
-## 🚀 Installation
-
-### Prerequisites
-- Python 3.8+
-- pip (Python package manager)
-- Git
-
 ### Local Development Setup
 
 1. **Clone the Repository**
